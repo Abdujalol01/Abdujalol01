@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdujalol Khalimov
   Frontend dasturchi.Frontend dasturlashni 2022-yil kuzda boshlagan.Hozirda javascriptni chuqquroq va uning React kutubxonasida ishlashni o'rganmoqchi bo'lgan dasturchi.
- [💼 Portfolio](https://abdujalol01.uz) | [💬 Telegram](https://t.me/Khalimov01) | [📧Email](mailto:jalolhalimov203@gmail.com)
+ [💼 Portfolio](https://abdujalol01.uz) | [💬 Telegram](https://t.me/Khalimov01) | [📧gmail](jalolhalimov203@gmail.com)
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,Sass**
 
