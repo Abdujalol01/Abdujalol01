@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdujalol Khalimov
   Frontend developer.
- [💼 Portfolio](https://abdujalol01.uz) | [💬 Telegram](https://t.me/Khalimov01) | 📧 jalolhalimov203@gmail.com
+ [💼 Portfolio](https://https://singl-page-aplication.vercel.app/) | [💬 Telegram](https://t.me/Khalimov01) | 📧 jalolhalimov203@gmail.com
 
 
 
